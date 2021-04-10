@@ -8,7 +8,7 @@
 
 > This is a linear regression task and involves just 2 variables.
 
-### 3. [Person Weight Prediction]()
+### 3. [Person Weight Prediction](https://github.com/SaiJeevanPuchakayala/Prediction-Models/tree/main/Weight%20Prediction)
 > Predict the `Weight of a person` based on the `Person's Height`
 
 > This is a linear regression task and involves just 2 variables.
