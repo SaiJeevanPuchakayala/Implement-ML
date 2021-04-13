@@ -17,3 +17,8 @@
 > Predict the `Profit` based on the `R&D Spend`, `Administration`, `Marketing Spend`, and `State`.
 
 > This is a Multiple Regression task and involves 5 variables.
+
+### 5. [IPHONE Buyer Classification](https://github.com/SaiJeevanPuchakayala/Prediction-Models/tree/main/Iphone%20Buyer%20Classification)
+> Predict the `Purchase Iphone` based on the `Gender`, `Salary`, and `Age`.
+
+> This is a Decision Tree Classification task and involves 4 variables.
