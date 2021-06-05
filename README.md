@@ -22,3 +22,8 @@
 > Predict the `Purchase Iphone` based on the `Gender`, `Salary`, and `Age`.
 
 > This is a Decision Tree Classification task and involves 4 variables.
+
+### 6. [Diabetes Prediction](https://github.com/SaiJeevanPuchakayala/Implement-ML/tree/main/Diabetes_Prediction)
+> Predict the `Outcome` based on the `Pregnancies`,`Glucose`,	`BloodPressure`,	`SkinThickness`,	`Insulin`,	`BMI`,	`DiabetesPedigreeFunction`,	`Age`.
+
+> This is a Random Forest Classification Model.
